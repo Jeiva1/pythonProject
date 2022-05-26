@@ -1,3 +1,3 @@
 name="kamal"
-name=name[::-1]
+name=name[:3][::-1]
 print(name)
